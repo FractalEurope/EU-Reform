@@ -1,6 +1,10 @@
+---
+title: [Eurohat 1984]
+---
+
 ##  The European Project
 
-Welcome to Eurohat's Project about the European Union.
+Welcome to Eurohat's project about the European Union.
 
 Quick Links:
 * [Article 16 Negotiations](#article-16-negotiations)
@@ -13,5 +17,5 @@ More content coming soon...
 I recommend starting with the  October speeches delivered directly by the chief Negotiators.
 
 October 2021 Speeches:
-* UK Chief Negotiator: [David Frost](https://www.youtube.com/watch?v=_ULASuL3PGs)
-* EU Chief Negotiator: [Maroš Šefčovič](https://www.youtube.com/watch?v=WJU_3SDqyLs)
+* UK: [David Frost](https://www.youtube.com/watch?v=_ULASuL3PGs)
+* EU: [Maroš Šefčovič](https://www.youtube.com/watch?v=WJU_3SDqyLs)
