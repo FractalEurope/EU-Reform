@@ -1,5 +1,7 @@
 ---
 title: [Eurohat 1984]
+github:
+  is_project_page: false
 ---
 
 ##  The European Project
