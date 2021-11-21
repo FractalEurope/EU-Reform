@@ -1,5 +1,5 @@
 ---
-title: [Eurohat 1984]
+title: [Eurohat]
 github:
   is_project_page: false
 ---
